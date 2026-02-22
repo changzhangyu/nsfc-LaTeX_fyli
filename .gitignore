@@ -27,6 +27,7 @@
 
 Main.pdf
 NSFC-MS26.pdf
+面上项目-正文-2026.pdf
 
 # 忽略所有.o 和 .a文件.
 *.[oa]
@@ -34,6 +35,5 @@ NSFC-MS26.pdf
 ⚠︎*
 ⚠︎*/
 .DS_Store
-面上项目-正文-2026.pdf
-*.pdf
-面上项目-正文-2026.pdf
+
+
