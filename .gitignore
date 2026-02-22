@@ -1,19 +1,39 @@
-# 以'#' 开始的行，被视为注释.
+# 以'#' 开始的行，被视为注释
+
+# 通用辅助文件
 *.DS_Store
 *.aux
-*.bbl
-*.fdb_latexmk
-*.fls
-*.synctex.gz
-*.gz
-*.out
-*.zip
 *.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
 *.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+*.zip
 .texpadtmp/
+
+# Latexmk
+*.latexmk
+*.latexmkrc
+
+Main.pdf
+NSFC-MS26.pdf
+
 # 忽略所有.o 和 .a文件.
 *.[oa]
 # 忽略以!开头的文件和文件夹，方便写自己的内容
 ⚠︎*
 ⚠︎*/
 .DS_Store
+面上项目-正文-2026.pdf
+*.pdf
+面上项目-正文-2026.pdf
